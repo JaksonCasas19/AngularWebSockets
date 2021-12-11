@@ -1,0 +1,25 @@
+:host {
+    padding: 1rem;
+    display: block;
+}
+canvas {
+    background-color: white;
+    border: 2px solid green;
+    border-radius: 7px;
+  }
+
+  .zone-btn {
+      width: 100%;
+      display: flex;
+      margin-top: .5rem;
+  }
+  .zone-btn button {
+      background-color: white;
+      border: solid 1px #e6e6e6;
+      padding: .5rem;
+      border-radius: .25rem;
+      margin-right: .5rem;
+      font-size: 1.25rem;
+      font-weight: 500;
+      box-shadow: 0 0 10px #e2e2e2;
+  }
